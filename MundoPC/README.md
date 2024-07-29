@@ -1,4 +1,4 @@
 
 <h1 align="center">Mundo PC</h1>
 
-![MundoPC](https://github.com/user-attachments/assets/8eaefe08-6105-4394-b474-c1e959303a24)
+![MundoPC](https://github.com/user-attachments/assets/3d8c09d6-138a-4716-b065-d98b98b0868a)
